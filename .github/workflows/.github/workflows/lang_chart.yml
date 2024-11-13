@@ -23,3 +23,6 @@ jobs:
           plugin_languages_ignored: 'html, css'  # Optionally ignore specific languages
           plugin_languages_sections: breakdown
           plugin_languages_colors: "github"  # Set colors to match GitHub
+
+          
+          
