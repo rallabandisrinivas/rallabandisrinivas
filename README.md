@@ -57,6 +57,5 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rallabandisrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-![Language Graph](./language-graph.svg)
 
 <!-- Last updated: 2024-11-12 -->
