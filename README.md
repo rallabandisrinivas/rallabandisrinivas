@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+??,+I'm+rallabandisrinivas;Computational+Engineer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+,+I'm+rallabandisrinivas;Computational+Engineer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
@@ -45,7 +45,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rallabandisrinivas">
+  <a href="https://www.linkedin.com/in/srinivasrallabandi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rallabandisrinivas@users.noreply.github.com">
