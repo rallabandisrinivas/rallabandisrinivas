@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+??,+I'm+rallabandisrinivas;Computational+Engineer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## ?? About Me
+## 👋 About Me
 
 A computational engineer passionate about leveraging Python and Machine Learning to solve complex engineering challenges. My expertise spans advanced methodologies including Artificial Neural Networks and Fuzzy Logic, developed during my Master's research.
 
@@ -12,7 +12,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 
 > *"Keep going, always. When you get knocked down, get up"*
 
-## ?? Technologies & Tools
+## 💻 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -20,7 +20,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ?? Expertise Areas
+## 📝 Expertise Areas
 
 - **Computational Engineering**
   - Structural Analysis
@@ -34,7 +34,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
   - Machine Learning Algorithms
   - Data Visualization
 
-## ?? GitHub Stats
+## 🙌 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rallabandisrinivas&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -42,7 +42,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rallabandisrinivas&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## ?? Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rallabandisrinivas">
