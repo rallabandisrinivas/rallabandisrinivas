@@ -3,7 +3,7 @@ name: Generate Language Graph
 on:
   push:
     branches:
-      - main
+      - mainhttps://github.com/rallabandisrinivas/rallabandisrinivas/blob/main/.github/workflows/language_graph.yml
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
 
