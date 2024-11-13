@@ -1,0 +1,38 @@
+name: Generate Language Graph
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  generate-language-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      # Step 2: Generate Language Metrics SVG
+      - name: Generate Language Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: yourusername  # Replace with your GitHub username
+          plugin_languages: yes
+          plugin_languages_analysis: true
+          plugin_languages_sections: breakdown
+          plugin_languages_colors: "github"  # Colors matching GitHub's language colors
+
+      # Step 3: Move the generated SVG to a static file path
+      - name: Rename and Commit Graph
+        run: |
+          mv metrics.svg language-graph.svg
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add language-graph.svg
+          git commit -m "Update language-graph.svg with latest language distribution"
+          git push
