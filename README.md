@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-A computational engineer passionate about leveraging Python and Machine Learning to solve complex engineering challenges. My expertise spans advanced methodologies including Artificial Neural Networks and Fuzzy Logic, developed during my Master's research.
+A computational engineer and Simulation Engineer  passionate about leveraging Python and Machine Learning to solve complex engineering challenges. My expertise spans advanced methodologies including Artificial Neural Networks and Fuzzy Logic, developed during my Master's research.
 
 With a proven track record across automotive, aerospace, and heavy mining sectors, I've delivered high-impact solutions for industry leaders including Boeing, Airbus, BMW, and Caterpillar. My work combines robust structural engineering principles with data analytics, using tools like Python and Tableau.
 
