@@ -37,12 +37,23 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 
 ## 🙌 GitHub Stats
 
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rallabandisrinivas&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rallabandisrinivas&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=rallabandisrinivas&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rallabandisrinivas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rallabandisrinivas&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<!-- GitHub Activity Graph -->
+[![Srinivas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rallabandisrinivas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- GitHub Trophies -->
+![](https://github-profile-trophy.vercel.app/?username=rallabandisrinivas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Snake Animation -->
+![Snake animation](https://github.com/rallabandisrinivas/rallabandisrinivas/blob/output/github-contribution-grid-snake.yml)
+
+</div>
 ## 📬 Let's Connect
 
 <div align="center">
