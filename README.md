@@ -50,8 +50,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 <!-- GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=rallabandisrinivas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/rallabandisrinivas/rallabandisrinivas/blob/output/github-contribution-grid-snake.yml)
+
 
 </div>
 ## 📬 Let's Connect
