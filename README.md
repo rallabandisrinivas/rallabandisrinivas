@@ -43,7 +43,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 ![](https://github-readme-stats.vercel.app/api?username=rallabandisrinivas&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rallabandisrinivas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rallabandisrinivas&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+
 
 <!-- GitHub Activity Graph -->
 [![Srinivas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rallabandisrinivas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
