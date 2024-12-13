@@ -25,7 +25,7 @@ Currently focused on expanding my Machine Learning expertise while driving innov
 
 - **Computational Engineering**
   - Structural Analysis
-  - Finite Element Analysis
+  - Finite Element Analysis 
   - Neural Networks
   - Fuzzy Logic Systems.
 
